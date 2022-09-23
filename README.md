@@ -12,3 +12,7 @@
 * MVC
 * Restful
 * JWT
+
+## Arquitetura da API
+
+![essa](https://user-images.githubusercontent.com/82068742/191919371-fdb0386d-0d7c-4e22-a411-ee6c8e7f4be1.png)
